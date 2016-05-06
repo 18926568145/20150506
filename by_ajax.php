@@ -14,6 +14,7 @@ if($action=="get_mobile_plist"){
 }
 
 00000002   modify 
+dev 00000002  modify 
 
 //根据传入的 试验编号和密码，判断所属的类型
 function get_pwd_type(){
